@@ -64,6 +64,7 @@ You can deploy the WhatsApp Chat Analyzer app to various platforms for sharing a
 ### Streamlit Sharing: 
 Streamlit provides a free hosting service called Streamlit Sharing. You can deploy your app to Streamlit Sharing by following the instructions in their documentation.
 
+![Preview]([https://github.com/your-username/your-repository/blob/main/path/to/preview-image.png](https://github.com/mfaraazahmed/WhatsApp-chat-analysis/blob/main/preview/ezgif.com-optimize.gif))
 
 ## Acknowledgements
 The WhatsApp Chat Analyzer is inspired by the need to gain insights from WhatsApp conversations. It builds upon the capabilities of various open-source libraries and tools that make chat analysis possible.
