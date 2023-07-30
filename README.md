@@ -74,6 +74,7 @@ YouTube Tutorial: Build a WhatsApp Chat Analyzer by
 [CampusX](https://www.youtube.com/watch?v=Q0QwvZKG_6Q)
 
 
+
 ## Preview
-![Preview]([https://github.com/your-username/your-repository/blob/main/path/to/preview-image.png](https://github.com/mfaraazahmed/WhatsApp-chat-analysis/blob/main/preview/ezgif.com-optimize.gif)
+![Preview](https://github.com/mfaraazahmed/WhatsApp-chat-analysis/blob/main/preview/ezgif.com-optimize.gif)
 
